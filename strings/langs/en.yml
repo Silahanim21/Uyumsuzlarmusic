@@ -253,8 +253,8 @@ stream_4 : "📡 **Akış Başlatıldı**\n\n**🔘Başlık:** [{0}]({1})\n⌛�
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "✨ ᴍᴇɴᴜ̈ʏᴜ̈ ᴋᴀᴘᴀᴛ ✨"
-CLOSEMENU_BUTTON  : "✨ ᴍᴇɴᴜ̈ʏᴜ̈ ᴋᴀᴘᴀᴛ ✨"
+CLOSE_BUTTON  : "✨ᴍᴇɴᴜ̈ʏᴜ̈ ᴋᴀᴘᴀᴛ✨"
+CLOSEMENU_BUTTON  : "✨ᴍᴇɴᴜ̈ʏᴜ̈ ᴋᴀᴘᴀᴛ✨"
 BACK_BUTTON : "⬅ 𝐺𝐸𝑅𝐼"
 UNBAN_BUTTON : "🗑 Asistanın yasağını kaldır"
 
@@ -294,8 +294,8 @@ P_B_4 : "🎵 Çalma Listesi Oynat"
 
 #Playlist
 PL_B_1 : "🚀 Çalma Listesi Oynat"
-PL_B_2 : "✨ ʟɪsᴛᴇᴍᴇ ᴇʟᴋᴇ ✨"
-PL_B_3 : "✨ ᴋᴏɴᴛʀᴏʟ ᴘᴀɴᴇʟɪ ✨"
+PL_B_2 : "✨ʟɪsᴛᴇᴍᴇ ᴇʟᴋᴇ✨"
+PL_B_3 : "✨ᴋᴏɴᴛʀᴏʟ ᴘᴀɴᴇʟɪ✨"
 PL_B_4 : "📡 Oynatma Mo𝖽u"
 PL_B_5 : "🔄 Tüm Çalma Listesini Sil"
 PL_B_6 : "↗️ Çalma Listesini Sil"
