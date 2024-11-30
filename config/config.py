@@ -47,9 +47,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kumsaldestekkanal")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/birtutammsevgi")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/GecSohbettr")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/whiskeyclubb")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 
@@ -105,11 +105,11 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/5hH.jpg"
+    "START_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", ""
+    "PING_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -117,44 +117,44 @@ PLAYLIST_IMG_URL = getenv(
 )
 
 GLOBAL_IMG_URL = getenv(
-    "GLOBAL_IMG_URL", "https://envs.sh/5hH.jpg"
+    "GLOBAL_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 YOUTUBE_IMG_URL = getenv(
-    "YOUTUBE_IMG_URL", None
+    "YOUTUBE_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 STATS_IMG_URL = getenv(
-    "STATS_IMG_URL", "https://envs.sh/5hH.jpg"
+    "STATS_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 TELEGRAM_AUDIO_URL = getenv(
-    "TELEGRAM_AUDIO_URL", "https://envs.sh/5hH.jpg"
+    "TELEGRAM_AUDIO_URL", "https://envs.sh/YsA.jpg"
 )
 
 TELEGRAM_VIDEO_URL = getenv(
-    "TELEGRAM_VIDEO_URL", "https://envs.sh/5hH.jpg"
+    "TELEGRAM_VIDEO_URL", "https://envs.sh/YsA.jpg"
 )
 
 STREAM_IMG_URL = getenv(
-    "STREAM_IMG_URL", "https://envs.sh/5hH.jpg"
+    "STREAM_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 SOUNCLOUD_IMG_URL = getenv(
-    "SOUNCLOUD_IMG_URL", "https://envs.sh/5hH.jpg"
+    "SOUNCLOUD_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
-    "SPOTIFY_ARTIST_IMG_URL", "https://envs.sh/5hH.jpg"
+    "SPOTIFY_ARTIST_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
-    "SPOTIFY_ALBUM_IMG_URL", "https://envs.sh/5hH.jpg"
+    "SPOTIFY_ALBUM_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
-    "SPOTIFY_PLAYLIST_IMG_URL", "https://envs.sh/5hH.jpg"
+    "SPOTIFY_PLAYLIST_IMG_URL", "https://envs.sh/YsA.jpg"
 )
 
 
