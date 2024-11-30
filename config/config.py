@@ -47,9 +47,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/birtutammsevgi")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kumsaldestekkanal")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/whiskeyclubb")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/GecSohbettr")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 
@@ -67,7 +67,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/kumsalfed5456/kumsalXmusic")
+GITHUB_REPO = getenv("GITHUB_REPO", "")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 
@@ -105,11 +105,11 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/YsA.jpg"
+    "START_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/YsA.jpg"
+    "PING_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -117,44 +117,44 @@ PLAYLIST_IMG_URL = getenv(
 )
 
 GLOBAL_IMG_URL = getenv(
-    "GLOBAL_IMG_URL", "https://envs.sh/YsA.jpg"
+    "GLOBAL_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 YOUTUBE_IMG_URL = getenv(
-    "YOUTUBE_IMG_URL", "https://envs.sh/YsA.jpg"
+    "YOUTUBE_IMG_URL", None
 )
 
 STATS_IMG_URL = getenv(
-    "STATS_IMG_URL", "https://envs.sh/YsA.jpg"
+    "STATS_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 TELEGRAM_AUDIO_URL = getenv(
-    "TELEGRAM_AUDIO_URL", "https://envs.sh/YsA.jpg"
+    "TELEGRAM_AUDIO_URL", "https://envs.sh/5hH.jpg"
 )
 
 TELEGRAM_VIDEO_URL = getenv(
-    "TELEGRAM_VIDEO_URL", "https://envs.sh/YsA.jpg"
+    "TELEGRAM_VIDEO_URL", "https://envs.sh/5hH.jpg"
 )
 
 STREAM_IMG_URL = getenv(
-    "STREAM_IMG_URL", "https://envs.sh/YsA.jpg"
+    "STREAM_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 SOUNCLOUD_IMG_URL = getenv(
-    "SOUNCLOUD_IMG_URL", "https://envs.sh/YsA.jpg"
+    "SOUNCLOUD_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
-    "SPOTIFY_ARTIST_IMG_URL", "https://envs.sh/YsA.jpg"
+    "SPOTIFY_ARTIST_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
-    "SPOTIFY_ALBUM_IMG_URL", "https://envs.sh/YsA.jpg"
+    "SPOTIFY_ALBUM_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
-    "SPOTIFY_PLAYLIST_IMG_URL", "https://envs.sh/YsA.jpg"
+    "SPOTIFY_PLAYLIST_IMG_URL", "https://envs.sh/5hH.jpg"
 )
 
 
