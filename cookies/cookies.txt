@@ -21,5 +21,3 @@
 .youtube.com        TRUE        /        TRUE        1763958412        __Secure-1PSIDCC        AKEyXzXNkoh0KdZVQqDBYTR0UER5sh9ywkNK3fnQFsq_1pN0PF-1UVOQ2dtK3kW90FfJhgBzlg
 .youtube.com        TRUE        /        TRUE        1763958412        __Secure-3PSIDCC        AKEyXzUQk5HnZ1FepNclYqTyJX28ljpwpD9ZSwpxejeLaNmY3GAH7ArsHmqdgtxwZ6e8WA7Y7SQ
 .youtube.com        TRUE        /        TRUE        1747974405        VISITOR_INFO1_LIVE        c51jXyTwpqE
-.youtube.com        TRUE        /        TRUE        1747974405        VISITOR_PRIVACY_METADATA        CgJJThIEGgAgJA%3D%3D
-.youtube.com        TRUE        /        TRUE        0        YSC        fTyUQ8YpVDQ
