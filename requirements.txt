@@ -6,6 +6,7 @@ ffmpeg-python
 gitpython
 heroku3
 lyricsgenius
+httpx[http2]==0.27.2
 motor
 psutil
 pytube
